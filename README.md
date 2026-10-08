@@ -34,4 +34,4 @@ No claims of executable agent count, test count, production readiness, or sovere
 
 ## License
 
-All rights reserved.
+MIT License — see [LICENSE](LICENSE) for the governing terms.
